@@ -1,9 +1,6 @@
 Hola Esto es un fichero
 Que mola mucho
-¿A que si?
-<<<<<<< Updated upstream
-¿Me has escuchado?
+�A que si?
+�Me has escuchado?
 si, te he escuchado
-=======
-Pues sí, la verdad es que sí
->>>>>>> Stashed changes
+Cambios desde Eclipse
